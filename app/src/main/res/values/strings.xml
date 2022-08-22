@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AdPlayer</string>
+    <string name="image_main_text">AdImage</string>
+    <string name="video_main_text">AdVideo</string>
+    <string name="image_backgorund_text">imageBack</string>
 </resources>
