@@ -1,3 +1,9 @@
+//*********************************************************************************************************//
+//AdPlayer main class. Playing photo and video from "/storage/emulated/0/AdPlayer"
+//Created 03.06.2022
+//Created by Novikov Dmitry
+//*********************************************************************************************************//
+
 package com.ndpcode.adplayer;
 
 import android.Manifest;
@@ -9,7 +15,6 @@ import android.widget.ImageView;
 import android.widget.VideoView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -37,7 +42,6 @@ public class AdPlayer {
         public String SlideFileName(){
             return fileName;
         }
-
         public AdContentType SlideContentType()
         {
             return fileType;

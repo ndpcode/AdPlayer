@@ -1,3 +1,10 @@
+//*********************************************************************************************************//
+//A simple full screen ad player for Android. Autostart and launcher.
+//Created 03.06.2022
+//Created by Novikov Dmitry
+//MainActivity class
+//*********************************************************************************************************//
+
 package com.ndpcode.adplayer;
 
 import androidx.appcompat.app.AppCompatActivity;

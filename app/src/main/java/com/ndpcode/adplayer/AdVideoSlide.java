@@ -1,3 +1,9 @@
+//*********************************************************************************************************//
+//AdVideoSlide class for videos playing that implements the IAdSlide interface.
+//Created 03.06.2022
+//Created by Novikov Dmitry
+//*********************************************************************************************************//
+
 package com.ndpcode.adplayer;
 
 import android.media.MediaPlayer;
